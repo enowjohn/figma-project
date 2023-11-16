@@ -1,0 +1,313 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {}
+
+.headers {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.details {
+  display: grid;
+  justify-content: center;
+  gap: 20px;
+  opacity: 0.6;
+}
+
+.icons {
+  opacity: 0.6;
+}
+
+.form {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  background-color: white;
+  width: 19rem;
+  height: 39rem;
+  margin: 2rem auto;
+  border-radius: 5px;
+}
+
+.main-b {
+  display: grid;
+  justify-content: center;
+  gap: 25px;
+  color: white;
+}
+
+.placeholder {
+  width: 16rem;
+  height: 2rem;
+  margin: 1rem;
+}
+
+.getquote-button {
+  width: 9rem;
+  height: 2rem;
+  border-radius: 2rem;
+  background-color: blue;
+  border: none;
+  color: white;
+}
+
+.learn-button {
+  width: 7rem;
+  height: 2rem;
+  border-radius: 2rem;
+  border: 1px solid;
+}
+
+.button {
+  display: grid;
+  justify-content: center;
+  gap: 20px;
+}
+
+.book-button {
+  width: 16rem;
+  height: 2rem;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
+
+.forms {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}
+
+.main {
+  background-image: url(../images/48698524_m-1200x518.jpg);
+  padding-bottom: 8rem;
+  margin: rem;
+}
+
+.fonts {
+  display: flex;
+  gap: 15px;
+  border: 1px;
+  width: 13rem;
+  height: 5rem;
+  border-radius: 4px;
+  background-color: rgb(151, 197, 214);
+  border-bottom: 1px solid black;
+}
+
+.list {
+  width: 13rem;
+  height: 11rem;
+  border-radius: 4px;
+  flex-direction: column;
+  display: flex;
+  gap: 20px;
+  text-align: center;
+}
+
+.container2 {
+  display: grid;
+  justify-content: center;
+  gap: 25px;
+}
+
+.sub-detail {
+  display: grid;
+  border: 1px solid black;
+  width: 13rem;
+  border-radius: 4px;
+}
+
+.div-a {
+  display: grid;
+  gap: 25px;
+  justify-content: center;
+}
+
+.div-b {
+  border: 1px solid;
+  width: 10rem;
+  flex-direction: column;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  padding: 25px;
+}
+
+.div-b p {
+  opacity: 0.7;
+}
+
+.div-1 {
+  color: blue;
+}
+
+.main-div {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+}
+
+.sub-div {
+  flex-direction: column;
+  display: flex;
+  text-align: center;
+  grid-area: 25px;
+}
+
+.div-3 {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  gap: 28px;
+}
+
+.div-e {
+  font-size: 3rem;
+}
+
+.div-5 {
+  display: grid;
+  gap: 29px;
+  margin: 2rem;
+  justify-content: center;
+}
+
+.div-g {
+  display: flex;
+  gap: 15px;
+}
+
+.div-f {
+  display: grid;
+  gap: 29px;
+}
+
+.div-9 {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  gap: 29px;
+}
+
+.div-11 {
+  display: grid;
+  justify-content: center;
+  gap: 15px;
+}
+
+.div-j {
+  display: flex;
+  gap: 10px;
+}
+
+.div-p {
+  color: green;
+  margin: 4px;
+}
+
+.div-t {
+  display: grid;
+  justify-content: center;
+  gap: 25px;
+}
+
+.div-r {
+  display: flex;
+  gap: 20px;
+}
+
+.div-v {
+  background-color: green;
+  color: white;
+  border-radius: 700px;
+}
+
+.button-a {
+  width: 12rem;
+  height: 2rem;
+  display: flex;
+  justify-content: center;
+  margin: 1rem auto;
+  padding-top: 6px;
+  background-color: rgb(44, 44, 220);
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.general-div {
+  border: 1px solid rgb(84, 84, 227);
+  margin: 2rem;
+}
+
+.div-14 {
+  background-color: rgb(15, 11, 41);
+  color: white;
+  margin: 2rem;
+  padding-bottom: 6rem;
+  padding-top: 6rem;
+  border-radius: 5px;
+
+}
+
+.forms-2 {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  background-color: white;
+  width: 19rem;
+  height: 39rem;
+  margin: 1rem auto;
+  border-radius: 5px;
+  gap: 10px;
+}
+
+.appointment {
+  flex-direction: column;
+  display: flex;
+  text-align: center;
+  gap: 20px;
+}
+
+.map {
+  display: flex;
+  justify-content: center;
+}
+
+.placeholder-1 {
+  width: 13rem;
+  height: 5rem;
+}
+
+.general-div2 {
+  flex-direction: column;
+  display: flex;
+  text-align: center;
+  gap: 25px;
+}
+
+.div-15 {
+  flex-direction: column;
+  display: flex;
+  gap: 20px;
+}
+
+.div-15 p {
+  opacity: 0.7;
+}
+
+.star {
+  display: flex;
+}
+
+.div-w {
+  text-align: center;
+  gap: 18px;
+}
