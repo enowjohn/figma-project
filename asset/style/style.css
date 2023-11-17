@@ -54,7 +54,7 @@ body {
   width: 9rem;
   height: 2rem;
   border-radius: 2rem;
-  background-color: #0000ff;
+  background-color: #00f;
   border: none;
   color: #fff;
 }
@@ -75,7 +75,7 @@ body {
 .book-button {
   width: 16rem;
   height: 2rem;
-  background-color: #0000ff;
+  background-color: #00f;
   color: #fff;
   border-radius: 5px;
   border: none;
@@ -85,7 +85,6 @@ body {
   display: flex;
   gap: 20px;
   flex-direction: column;
-  /* margin: 2rem; */
 }
 
 .main {
@@ -149,7 +148,7 @@ body {
 }
 
 .div-1 {
-  color: #0000ff;
+  color: #00f;
 }
 
 .main-div {
@@ -215,7 +214,6 @@ body {
 
 .div-p {
   color: #008000;
-  /* margin: 4px; */
 }
 
 .div-t {
@@ -230,7 +228,7 @@ body {
 }
 
 .div-v {
-  background-color: #008000;
+  background-color: #008;
   color: #fff;
   border-radius: 700px;
 }
@@ -320,4 +318,3 @@ body {
 .network {
   text-align: center;
 }
-
