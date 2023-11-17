@@ -4,7 +4,6 @@
 }
 
 body {
-  gap: 18px;
   flex-direction: column;
   display: flex;
   gap: 20px;
@@ -88,7 +87,7 @@ body {
 }
 
 .main {
-  background-image: url(../images/48698524_m-1200x518.jpg);
+  background-image: url("../images/48698524_m-1200x518.jpg");
   padding-bottom: 8rem;
   margin: rem;
 }
@@ -228,7 +227,7 @@ body {
 }
 
 .div-v {
-  background-color: #008;
+  background-color: #008000;
   color: #fff;
   border-radius: 700px;
 }
